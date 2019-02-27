@@ -33,7 +33,7 @@ Now let's assume you want to make some changes on the project (eg. correcting so
 
 That command creates a branch and moves the HEAD to it. You can do it in two commands too if you prefer: `git branch new-feature` and `git checkout new-feature`.
 
-It's time to code ! Make some changes on a file, add a new one or do whatever you want (like correcting this eerroorr). Then commit your changes and push them to Github.
+It's time to code ! Make some changes on a file, add a new one or do whatever you want (like correcting this error). Then commit your changes and push them to Github.
 
     git add .
     git commit -m "The commit that will change the world forever."
